@@ -1,0 +1,89 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.back{
+height: 100%;
+width: 100%;
+}
+.btn1{
+    float: right;
+    margin-top: 2%;
+    width: 97px;
+    height: 43px;
+    border-radius: 13px;
+    justify-content: space-between;
+    border-color: white;
+    color: white;
+    cursor:context-menu;
+    background-color: transparent;
+    margin-right: 11%;
+    box-shadow: inset 0 0 0 0 #f66804;
+    transition: 0.2s;
+    right: 20%;
+    position: absolute;
+    font-size: 3vh;
+}
+
+button:hover {
+    box-shadow: inset 25.6px 0 0 0 #f66804;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.btn2{
+    float: right;
+    margin-top: 2%;
+    position: absolute;
+    width: 97px;
+    height: 43px;
+    border-radius: 13px;
+    border-color: white;
+    justify-content: space-between;
+    color: white;
+    cursor: pointer;
+    background-color: transparent;
+    margin-right: 11%;
+    box-shadow: inset 0 0 0 0 #f66804;
+    transition: 0.2s;
+    font-size: 3vh;
+    right:-2%
+}
+
+button:hover {
+    box-shadow: inset 25.6px 0 0 0 #f66804;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.back{
+    height: 100%;
+    width:100%;
+
+    
+}
+.tt{
+    position: absolute;
+    right:83%;
+}
+h1{
+    color: white;
+font-size: 6vw;
+display: inline;
+position: absolute;
+margin-top: -40%;
+right: 24%;
+}
+p{
+    color: white;
+font-size: 2vw;
+display: inline;
+position: absolute;
+margin-top: -31%;
+right: 46%;
+}
